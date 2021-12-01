@@ -1,0 +1,4 @@
+Hey there - writing some lines to practice using Git and GitHub as part
+of my Odin Project practice! I've been at it for about a week and I'm
+almost ready to actually start coding, and not just setting things up! 
+Won't that be novel?
